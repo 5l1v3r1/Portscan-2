@@ -1,2 +1,1 @@
-python简易端口扫描器，扫描TCP与UDP,heihei
-huha
+python简易端口扫描器，扫描TCP与UDP

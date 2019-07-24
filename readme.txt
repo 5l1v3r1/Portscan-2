@@ -1,1 +1,1 @@
-python简易端口扫描器，扫描TCP与UDP,master,more
+python简易端口扫描器，扫描TCP与UDP,master,dev

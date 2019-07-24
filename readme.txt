@@ -1,1 +1,2 @@
-python简易端口扫描器，扫描TCP与UDP,heihei,windows真来，ubuntu也来
+python简易端口扫描器，扫描TCP与UDP,enough
+

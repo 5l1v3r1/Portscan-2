@@ -1,4 +1,4 @@
-1.python简易端口扫描器，扫描TCP与UDP，heihei
+1.python简易端口扫描器，扫描TCP与UDP
 
 2.根据网路状态在portscan.py中配置
 	
